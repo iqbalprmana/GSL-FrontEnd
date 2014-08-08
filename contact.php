@@ -48,22 +48,22 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a href="about.html">Tower</a>
+                        <a href="#">Tower</a>
                     </li>
                     <li>
-                        <a href="about.html">Event And Program</a>
+                        <a href="#">Event And Program</a>
                     </li>
                     <li>
-                        <a href="about.html">Living At GSL</a>
+                        <a href="#">Living At GSL</a>
                     </li>
                     <li>
-                        <a href="about.html">Location</a>
+                        <a href="#">Location</a>
                     </li>
                     <li>
-                        <a href="about.html">About PP</a>
+                        <a href="#">About PP</a>
                     </li>
                     <li>
-                        <a href="contact.html">Contact</a>
+                        <a href="contact.php">Contact</a>
                     </li>
                     
                     <ul class="nav navbar-nav navbar-right">
