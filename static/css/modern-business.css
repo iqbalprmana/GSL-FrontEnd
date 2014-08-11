@@ -8,6 +8,7 @@
 
 html,
 body {
+   background:#0f3739 url('../img/img2/1.jpg') no-repeat top center fixed; font-family:Museo500-Regular;
    height: 100%;
 }
 
